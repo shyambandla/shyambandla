@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyam Bandla
 - 👀 I’m interested in Full Stack Web Development and App Development 
-- 💞️ I’m looking For High Level Projects
+- 💞️ I’m looking For Enterprise Level Projects
 - 📫 Can Reach me on shyambandla143@gmail.com
 - ✈️ Open to Remote Job Opportunities 🍻
 - you won't see much here coz most of my repos are private. 
